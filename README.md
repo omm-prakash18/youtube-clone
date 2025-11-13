@@ -1,3 +1,3 @@
 # youtube-clone
-clone of yotube 
+clone of yotube .
 author- Omm prakash padhiary
